@@ -1,5 +1,15 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPauling&show_icons=true&theme=dark)
+## 📊 GitHub Stats Absolutas 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPaulin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+
+## 🏆 Trofeos de GitHub
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PabloPaulin&theme=darkhub&no-bg=true&margin-w=15)
+
+## 🔥 Racha de Actividad
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloPaulin&theme=dark)
+
+## 📌 Lenguajes Más Usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPaulin&layout=compact&theme=dark)
 
 <!--
 **PabloPauling/PabloPauling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
