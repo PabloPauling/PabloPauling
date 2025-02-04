@@ -1,13 +1,4 @@
 ## Hi there 👋
-## 📊 GitHub Stats Absolutas 🚀
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PabloPaulin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-
-## 🔥 Racha de Actividad
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloPaulin&theme=dark)
-
-## 📌 Lenguajes Más Usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPaulin&layout=compact&theme=dark)
-
 <!--
 **PabloPauling/PabloPauling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
