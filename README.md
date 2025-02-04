@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 📊 GitHub Stats Absolutas 🚀
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPaulin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PabloPaulin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
 ## 🔥 Racha de Actividad
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloPaulin&theme=dark)
