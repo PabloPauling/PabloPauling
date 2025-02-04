@@ -2,9 +2,6 @@
 ## 📊 GitHub Stats Absolutas 🚀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPaulin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
-## 🏆 Trofeos de GitHub
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PabloPaulin&theme=darkhub&no-bg=true&margin-w=15)
-
 ## 🔥 Racha de Actividad
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloPaulin&theme=dark)
 
