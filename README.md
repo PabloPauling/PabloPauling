@@ -1,1 +1,2 @@
+- Senior Founding Engineer at Pauling AI.
 - Main developer of [Protonify](https://github.com/pauling-ai/Protonify), a plug-and-play wrapper around Uni-pKa created during my work at Pauling AI.
